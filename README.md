@@ -1,19 +1,14 @@
 # terminal-portfolio
 
-![image](https://github.com/thtauhid/terminal-portfolio/assets/13254850/23ecf4cd-89d4-4eed-aa2c-5a6c31f96c51)
-
-Read our goals and roadmap [here](ROADMAP.md).
+![image]()
 
 ## About
 
-A portfolio site template that looks and feels like a terminal.
-
-Production: https://my-terminal-portfolio.vercel.app/
 
 ## Installation
 
 ```bash
-git clone https://github.com/thtauhid/terminal-portfolio
+git clone 
 cd terminal-portfolio
 npm install
 ```
@@ -91,28 +86,6 @@ vercel
 
 7. Once the deployment is complete, your terminal-portfolio will be live on Vercel, and Vercel Analytics will be enabled by default, providing you with valuable insights into your website's performance.
 
-## Contributing
-
-[Contributing Guide](CONTRIBUTING.md)
-
-Feel free to open an issue if you find a bug or want to suggest a feature.
-
-### Hacktoberfest
-
-1. Star the project.
-2. Join our [Discord server](https://discord.gg/3jvahVGKfa) to discuss ideas and ask questions.
-3. Please make sure to read the [rules](https://hacktoberfest.com/participation/) before opening a pull request.
-4. The maintainer(s) will add the `hacktoberfest-accepted` label after reviewing and accepting your pull request.
-5. Refer to the dedicated [hacktoberfest project view](https://github.com/users/thtauhid/projects/1/views/2) to see what issues are available to work on.
-6. Low quality PRs will not be merged
-
-## Contributors
-
-<a href="https://github.com/thtauhid/terminal-portfolio/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=thtauhid/terminal-portfolio" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
 
 ## License
 
